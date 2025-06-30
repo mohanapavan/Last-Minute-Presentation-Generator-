@@ -1,7 +1,5 @@
 # AI-Powered PowerPoint Generator
 
-![Project Banner](https://via.placeholder.com/800x200?text=AI+PowerPoint+Generator)
-
 A web application that automatically generates PowerPoint presentations on any topic using AI (Google Gemini) and includes relevant images.
 
 ## ✨ Features
