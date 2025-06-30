@@ -4,8 +4,8 @@ from pydantic import BaseModel
 import json
 
 from get_images import process_slide_images
-from data import create_presentation
-from gem import generate_presentation_data
+from create_presentation import create_presentation
+from generate_data import generate_presentation_data
 
 app = FastAPI()
 
